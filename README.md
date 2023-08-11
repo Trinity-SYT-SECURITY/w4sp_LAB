@@ -9,7 +9,10 @@
 + 運行sudo python w4sp_webapp.py
 + 等待一段時間，開啟瀏覽器，訪問http://127.0.0.1:5000
 
-如果跑不了，大機率是因為環境的套件問題!，可以找我要VM，我會把用好的環境給你
-+ 寫信到sytyactfhaha@gmail.com
+如果跑不了，大機率是因為環境的套件問題!
+
+VM dow:
+https://drive.google.com/drive/folders/10ZXBOCia6vONENgOUX0aWss_PLYDCwYT?usp=drive_link
+
 
 ![image](https://github.com/Trinity-SYT-SECURITY/w4sp_LAB/assets/96654161/5f0776f8-578e-4a12-a7c9-fccd3dbc74dd)

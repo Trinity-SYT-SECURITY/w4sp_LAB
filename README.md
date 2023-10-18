@@ -36,3 +36,6 @@ Network ← packets / datagram routing → Network
 Data Link ← structure of data to/from physical → Data Link
 
 Physical ← tangible electrical, light or RF → Physical
+
+
+

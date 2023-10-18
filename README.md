@@ -16,3 +16,7 @@ https://drive.google.com/drive/folders/10ZXBOCia6vONENgOUX0aWss_PLYDCwYT?usp=dri
 
 
 ![image](https://github.com/Trinity-SYT-SECURITY/w4sp_LAB/assets/96654161/5f0776f8-578e-4a12-a7c9-fccd3dbc74dd)
+
+首先註意到的是螢幕中間的網路圖。每個圓圈表示一個設備，可以是交換器（sw1、sw2）或路由器（r1、r2）、各種服務的伺服器（ftp1、ftp2、smb2等），也可以是受害機器（vic1、vic2等）在） 。
+
+W4SP 實驗室中的網路拓撲並不固定。拓撲根據不同場景的需要而變化。當然，當我們在後面的章節中首次使用它們時，我們將更深入地了解每個場景。右側的紅色按鈕將自訂實驗室，為特定的練習和演示做好準備

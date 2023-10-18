@@ -20,3 +20,12 @@ https://drive.google.com/drive/folders/10ZXBOCia6vONENgOUX0aWss_PLYDCwYT?usp=dri
 首先註意到的是螢幕中間的網路圖。每個圓圈表示一個設備，可以是交換器（sw1、sw2）或路由器（r1、r2）、各種服務的伺服器（ftp1、ftp2、smb2等），也可以是受害機器（vic1、vic2等）在） 。
 
 W4SP 實驗室中的網路拓撲並不固定。拓撲根據不同場景的需要而變化。當然，當我們在後面的章節中首次使用它們時，我們將更深入地了解每個場景。右側的紅色按鈕將自訂實驗室，為特定的練習和演示做好準備
+
+SYSTEM 1 ← --------------------------------- → SYSTEM 2
+Application ← specific service or application → Application
+Presentation ← how the service is formatted → Presentation
+Session ← rules how systems talk to one another → Session
+Transport ← segment reliability, error checking → Transport
+Network ← packets / datagram routing → Network
+Data Link ← structure of data to/from physical → Data Link
+Physical ← tangible electrical, light or RF → Physical
